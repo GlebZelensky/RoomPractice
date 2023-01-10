@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RoomApp</string>
+    <string name="hint_category">Жанр игр:</string>
+    <string name="add_product">Добавить Игру</string>
+    <string name="name_hint">Игра:</string>
+    <string name="price_hint">Стоимость:</string>
+    <string name="category_hint">Категория:</string>
+    <string name="clear_game">Очистить</string>
+
+    <string-array name="categories_only">
+        <item>Action</item>
+        <item>BattleRoyale</item>
+        <item>RogueLike</item>
+        <item>Strategy</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>All</item>
+        <item>Action</item>
+        <item>BattleRoyale</item>
+        <item>RogueLike</item>
+        <item>Strategy</item>
+    </string-array>
+</resources>
